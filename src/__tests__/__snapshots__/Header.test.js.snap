@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<header
+  class="sc-bdVaJa ghkLH"
+>
+  <div
+    class="sc-bwzfXH cYJXFx"
+  >
+    <div
+      class="sc-htpNat keCgax"
+    >
+      <div
+        class="sc-bxivhb cRjziJ"
+      >
+        undefined assets
+      </div>
+      <div
+        class="sc-ifAKCX cOHJjj"
+      />
+    </div>
+  </div>
+</header>
+`;

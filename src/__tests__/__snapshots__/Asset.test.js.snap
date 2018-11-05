@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<li
+  class="sc-bdVaJa bjGLlW"
+  type="Mock Type"
+>
+  <h2
+    class="sc-bwzfXH hAFfpb"
+  >
+    Mock Name
+  </h2>
+  <p
+    class="sc-htpNat tMhnM"
+  >
+    <span>
+      0.11 min
+    </span>
+    <span>
+      Mock Type
+    </span>
+  </p>
+</li>
+`;

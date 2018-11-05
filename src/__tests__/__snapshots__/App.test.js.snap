@@ -1,0 +1,216 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<div
+  class="sc-VigVT kDCSrE"
+>
+  <header
+    class="sc-htoDjs cbhjhM"
+  >
+    <div
+      class="sc-dnqmqq zDFHM"
+    >
+      <div
+        class="sc-iwsKbI iPxjAL"
+      >
+        <div
+          class="sc-gZMcBi cAaVkP"
+        >
+          0 assets
+        </div>
+        <div
+          class="sc-gqjmRU YewBh"
+        />
+      </div>
+    </div>
+  </header>
+  <main
+    class="sc-jTzLTM eooEdb"
+  >
+    <div
+      class="sc-fjdhpX Lovfj"
+    >
+      <div
+        class="sc-EHOje lonMAp"
+      >
+        <ul
+          class="sc-ifAKCX hcmkp"
+        >
+          <li
+            class="sc-bdVaJa ftOXwV"
+            type="Article"
+          >
+            <h2
+              class="sc-bwzfXH hAFfpb"
+            >
+              10 Principles of Change Management
+            </h2>
+            <p
+              class="sc-htpNat tMhnM"
+            >
+              <span>
+                0.11 min
+              </span>
+              <span>
+                Article
+              </span>
+            </p>
+          </li>
+          <li
+            class="sc-bdVaJa dzDBqC"
+            type="Video"
+          >
+            <h2
+              class="sc-bwzfXH hAFfpb"
+            >
+              Overview of change management phases
+            </h2>
+            <p
+              class="sc-htpNat tMhnM"
+            >
+              <span>
+                0.06 min
+              </span>
+              <span>
+                Video
+              </span>
+            </p>
+          </li>
+          <li
+            class="sc-bdVaJa ezDaKQ"
+            type="Document"
+          >
+            <h2
+              class="sc-bwzfXH hAFfpb"
+            >
+              Blockchain for dummies
+            </h2>
+            <p
+              class="sc-htpNat tMhnM"
+            >
+              <span>
+                0.15 min
+              </span>
+              <span>
+                Document
+              </span>
+            </p>
+          </li>
+          <li
+            class="sc-bdVaJa lkzawG"
+            type="Online Course"
+          >
+            <h2
+              class="sc-bwzfXH hAFfpb"
+            >
+              10 Principles of Change Management
+            </h2>
+            <p
+              class="sc-htpNat tMhnM"
+            >
+              <span>
+                0.02 min
+              </span>
+              <span>
+                Online Course
+              </span>
+            </p>
+          </li>
+          <li
+            class="sc-bdVaJa dzDBqC"
+            type="Video"
+          >
+            <h2
+              class="sc-bwzfXH hAFfpb"
+            >
+              It's ok I'm only busy for a while
+            </h2>
+            <p
+              class="sc-htpNat tMhnM"
+            >
+              <span>
+                0.11 min
+              </span>
+              <span>
+                Video
+              </span>
+            </p>
+          </li>
+          <li
+            class="sc-bdVaJa ezDaKQ"
+            type="Document"
+          >
+            <h2
+              class="sc-bwzfXH hAFfpb"
+            >
+              Why Carving Out 5 Hours Every Day For Difficult Work Can Lead To Greatness
+            </h2>
+            <p
+              class="sc-htpNat tMhnM"
+            >
+              <span>
+                0.09 min
+              </span>
+              <span>
+                Document
+              </span>
+            </p>
+          </li>
+          <li
+            class="sc-bdVaJa ezDaKQ"
+            type="Document"
+          >
+            <h2
+              class="sc-bwzfXH hAFfpb"
+            >
+              Multi-tasking: you're making yourself slower and dumber
+            </h2>
+            <p
+              class="sc-htpNat tMhnM"
+            >
+              <span>
+                0.21 min
+              </span>
+              <span>
+                Document
+              </span>
+            </p>
+          </li>
+          <li
+            class="sc-bdVaJa dzDBqC"
+            type="Video"
+          >
+            <h2
+              class="sc-bwzfXH hAFfpb"
+            >
+              Overview of change management phases
+            </h2>
+            <p
+              class="sc-htpNat tMhnM"
+            >
+              <span>
+                0.06 min
+              </span>
+              <span>
+                Video
+              </span>
+            </p>
+          </li>
+        </ul>
+      </div>
+      <div
+        class="sc-bZQynM byoWqO"
+      >
+        <h1
+          class="sc-gzVnrw cqLWpc"
+        >
+          Learning Assets Preview
+        </h1>
+        <ul
+          class="sc-ifAKCX hcmkp"
+        />
+      </div>
+    </div>
+  </main>
+</div>
+`;
